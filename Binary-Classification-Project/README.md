@@ -1,3 +1,3 @@
-Binary Classification project using the <a href="https://www.kaggle.com/datasets/mssmartypants/water-quality">water quality dataset</a> from kaggle. Project also available on <a href="https://deepnote.com/workspace/acme-inc-9dd7-0ccd532a-5896-44c6-b58b-02d6668f6611/project/Binary-Classification-Project-Pezzutti-07a611fa-11f4-4f2b-b529-7b8f3376128c">Deepnote</a>
+Binary Classification project done during Master in Data Science for Business, Economics and Finance, using the <a href="https://www.kaggle.com/datasets/mssmartypants/water-quality">water quality dataset</a> from kaggle. Project also available on <a href="https://deepnote.com/workspace/acme-inc-9dd7-0ccd532a-5896-44c6-b58b-02d6668f6611/project/Binary-Classification-Project-Pezzutti-07a611fa-11f4-4f2b-b529-7b8f3376128c">Deepnote</a>
 
 Includes exploratory data analysis and visualization, data cleaning, column transformer and pipeline, cross validation and selection of optimal pipeline and parameters.
